@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/src/java/model/UserBean.java</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/web/css/style.css</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/web/customerMessages.jsp</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/web/error.jsp</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/web/index.html</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/web/login.jsp</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/src/java/Controller/RefundServlet.java</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/web/dashboard.jsp</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/src/java/Controller/LoginServlet.java</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/web/register.jsp</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/src/java/Controller/LogoutServlet.java</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/src/java/model/CustomerMessageBean.java</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/src/java/Controller/CustomerMessageServlet.java</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/src/java/Controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/web/returnRequests.jsp</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/src/java/Controller/DBConnection.java</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/src/java/model/ReturnRequestBean.java</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/src/java/model/RefundBean.java</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/web/refunds.jsp</file>
+            <file>file:/C:/Users/mnabi/Documents/NetBeansProjects/GroupProject/src/java/Controller/ReturnRequestServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
